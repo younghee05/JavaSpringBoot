@@ -1,4 +1,4 @@
-package com.study.ssr.controller.model;
+package com.study.ssr.model;
 
 import lombok.Builder;
 import lombok.Data;
